@@ -1,0 +1,21 @@
+# Binaries & Object files
+Server
+Client
+*.o
+*.out
+*.exe
+
+# Debugging & symbols
+*.dSYM/
+*.su
+*.idb
+*.pdb
+
+# Editor / OS metadata
+.vscode/
+.idea/
+*.swp
+*.swo
+*~
+.DS_Store
+Thumbs.db

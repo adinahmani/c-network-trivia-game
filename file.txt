@@ -1,0 +1,10 @@
+1;What planet is known as the Red Planet?;Venus;Mars;Jupiter;Saturn;2
+2;Who wrote the novel “1984”?;Aldous Huxley;Ray Bradbury;George Orwell;J.K. Rowling;3
+3;What is the chemical symbol for gold?;Au;Ag;Gd;Go;1
+4;Which country hosted the 2016 Summer Olympics?;China;Brazil;United Kingdom;Russia;2
+5;In computing, what does “HTTP” stand for?;HyperText Transfer Protocol;High-Throughput Transfer Process;Hyperlink Text Transfer Program;HyperText Transmission Protocol;1
+6;Who painted the Mona Lisa?;Vincent van Gogh;Pablo Picasso;Leonardo da Vinci;Claude Monet;3
+7;What is the largest mammal in the world?;African elephant;Blue whale;Giraffe;Hippopotamus;2
+8;Which element has atomic number 6?;Nitrogen;Oxygen;Carbon;Helium;3
+9;In what year did the Berlin Wall fall?;1987;1989;1991;1993;2
+10;What is the capital city of Australia?;Sydney;Melbourne;Canberra;Perth;3
