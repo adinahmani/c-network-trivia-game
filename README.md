@@ -6,7 +6,7 @@
 [![Build: Make](https://img.shields.io/badge/Build-Makefile-lightgrey.svg)](Makefile)
 [![Protocol: TCP & UDP Multicast](https://img.shields.io/badge/Networking-TCP_%2B_UDP_Multicast-purple.svg)](#network-and-system-architecture)
 
-A multithreaded client-server Trivia Game built in C. The project implements a hybrid networking architecture combining **TCP** (for reliable control channels, client authentication, and answer verification) and **UDP Multicast** (for efficient, real-time broadcasts of game state, live questions, and dynamic scoreboards to all concurrent players).
+A multithreaded client-server Trivia Game designed and implemented in C. The project implements a hybrid networking architecture combining **TCP** (for reliable control channels, client authentication, and answer verification) and **UDP Multicast** (for efficient, real-time broadcasts of game state, live questions, and dynamic scoreboards to all concurrent players).
 
 ---
 
