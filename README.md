@@ -151,7 +151,3 @@ Open multiple separate terminal windows (simulating concurrent players) and laun
 - **Custom Protocol Design**: Struct packing, binary wire serialization, and multi-channel protocol synchronization.
 - **Systems and Defensive Programming**: Signal handling, connection timeout management, memory safety, clean resource deallocation.
 
----
-
-## License
-This project is open-source and available under the [MIT License](LICENSE).
